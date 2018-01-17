@@ -1,4 +1,3 @@
-﻿package selenium;
 
 import java.util.concurrent.TimeUnit;
 
@@ -34,6 +33,5 @@ public class loginMiracle {
 	  driver.findElement(By.id("624858e9-dba7-4732-a120-d0df7d587cda")).click();
   }
 }
-
 
 //此处添加一个内容测试github
